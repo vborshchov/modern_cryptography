@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="979.94531"
+   height="621.84827"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="Orange_blue_public_key_cryptography_uk.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="286.32841"
+     inkscape:cy="185.10053"
+     inkscape:document-units="px"
+     inkscape:current-layer="g5000"
+     showgrid="true"
+     inkscape:window-width="1024"
+     inkscape:window-height="548"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       snapvisiblegridlinesonly="true"
+       enabled="true"
+       visible="true"
+       empspacing="5"
+       id="grid2816"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <title
+     id="title5016">Public key cryptography</title>
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path3686" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Send"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path3692" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3674" />
+    </marker>
+    <inkscape:perspective
+       id="perspective10"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3629" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mendt"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mendt">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill:#729fcf;fill-rule:evenodd;stroke:#729fcf;stroke-width:0.625;stroke-linejoin:round"
+         id="path4869" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2MendtR"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2MendtR">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill:#f57900;fill-rule:evenodd;stroke:#f57900;stroke-width:0.625;stroke-linejoin:round"
+         id="path4943" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3706" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mendtc"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mendtc">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill:#f57900;fill-rule:evenodd;stroke:#f57900;stroke-width:0.625;stroke-linejoin:round"
+         id="path3722" />
+    </marker>
+    <inkscape:perspective
+       id="perspective3816"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3841"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3866"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Public key cryptography</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(83.75,-60.907078)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <g
+       transform="translate(0,7.4609331)"
+       id="g3616">
+      <rect
+         style="fill:#555753;fill-opacity:1;stroke:#729fcf;stroke-width:7.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3610-5-8"
+         width="374.44531"
+         height="74.889061"
+         x="-80.737305"
+         y="324.00613"
+         ry="24.963018" />
+      <text
+         xml:space="preserve"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         x="-46.561523"
+         y="371.2944"
+         id="text3254"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3256"
+           x="-46.561523"
+           y="371.2944">оригінальні дані</tspan></text>
+    </g>
+    <g
+       id="g3616-5"
+       transform="translate(518,-2.4999999e-6)">
+      <rect
+         style="fill:#555753;fill-opacity:1;stroke:#f57900;stroke-width:7.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3610-5"
+         width="374.44531"
+         height="74.889061"
+         x="0"
+         y="332.36218"
+         ry="24.963018" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3297"
+         y="378.63483"
+         x="17.738281"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         xml:space="preserve"><tspan
+           y="378.63483"
+           x="17.738281"
+           id="tspan3299"
+           sodipodi:role="line"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">зашифровані дані</tspan></text>
+    </g>
+    <path
+       sodipodi:nodetypes="ccc"
+       id="path3652"
+       d="m 700.20273,451.38193 c -146.9176,142.40184 -386.9176,142.40184 -526.9176,44.40184 -20,-22 40,38 -48,-46"
+       style="fill:none;stroke:#729fcf;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mendt)" />
+    <g
+       id="g5000"
+       transform="matrix(1.2364568,0,0,1.2364568,-10.511061,-393.16125)">
+      <path
+         transform="matrix(1.1845756,0,0,1.1845756,-42.025553,-142.55923)"
+         d="m 400,772.36218 c 0,44.18278 -35.81722,80 -80,80 -44.18278,0 -80,-35.81722 -80,-80 0,-44.18278 35.81722,-80 80,-80 44.18278,0 80,35.81722 80,80 z"
+         sodipodi:ry="80"
+         sodipodi:rx="80"
+         sodipodi:cy="772.36218"
+         sodipodi:cx="320"
+         id="path5002"
+         style="fill:#555753;fill-opacity:1;stroke:#729fcf;stroke-width:5.12058449;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="cssccccccccccccsssc"
+         id="path5004"
+         d="m 309.70237,710.64889 c -11.8411,0 -21.44021,9.59909 -21.44021,21.44019 0,11.84111 9.59911,21.44022 21.44021,21.44022 9.05256,0 16.79381,-5.61197 19.93828,-13.54529 l 1.50193,-0.74819 8.39742,7.14674 7.14673,-10.72011 10.54143,10.72011 3.57337,-10.72011 14.29348,10.72011 10.7201,-10.72011 -10.7201,-14.29347 -46.82229,0 c -3.70675,-6.40987 -10.63341,-10.72009 -18.57035,-10.72009 z m -3.57337,10.72009 c 3.94704,0 7.14674,3.1997 7.14674,7.14673 0,3.94704 -3.1997,7.14674 -7.14674,7.14674 -3.94704,0 -7.14674,-3.1997 -7.14674,-7.14674 0,-3.94703 3.1997,-7.14673 7.14674,-7.14673 z"
+         style="fill:none;stroke:#eeeeec;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         xml:space="preserve"
+         style="font-size:25.88040352px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         x="337.49988"
+         y="794.75012"
+         id="text3137"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="337.49988"
+           y="794.75012"
+           id="tspan3139"><tspan
+             x="337.49988"
+             y="794.75012"
+             id="tspan3141">закритий</tspan></tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3143"
+         y="827.10059"
+         x="337.43039"
+         style="font-size:25.88040352px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         xml:space="preserve"><tspan
+           id="tspan3145"
+           y="827.10059"
+           x="337.43039"
+           sodipodi:role="line"><tspan
+             id="tspan3147"
+             y="827.10059"
+             x="337.43039">ключ</tspan></tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#f57900;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mendtc)"
+       d="m 112.50795,291.00869 c 146.9176,-142.40184 386.9176,-142.40184 526.9176,-44.40184 20,22 -40,-38 48,46"
+       id="path3701"
+       sodipodi:nodetypes="ccc" />
+    <g
+       transform="matrix(1.2364568,0,0,1.2364568,-10.511061,-773.16125)"
+       id="g3887">
+      <path
+         sodipodi:type="arc"
+         style="fill:#555753;fill-opacity:1;stroke:#f57900;stroke-width:5.12058449;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3889"
+         sodipodi:cx="320"
+         sodipodi:cy="772.36218"
+         sodipodi:rx="80"
+         sodipodi:ry="80"
+         d="m 400,772.36218 c 0,44.18278 -35.81722,80 -80,80 -44.18278,0 -80,-35.81722 -80,-80 0,-44.18278 35.81722,-80 80,-80 44.18278,0 80,35.81722 80,80 z"
+         transform="matrix(1.1845756,0,0,1.1845756,-42.025553,-142.55923)" />
+      <path
+         style="fill:none;stroke:#eeeeec;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 309.70237,710.64889 c -11.8411,0 -21.44021,9.59909 -21.44021,21.44019 0,11.84111 9.59911,21.44022 21.44021,21.44022 9.05256,0 16.79381,-5.61197 19.93828,-13.54529 l 1.50193,-0.74819 8.39742,7.14674 7.14673,-10.72011 10.54143,10.72011 3.57337,-10.72011 14.29348,10.72011 10.7201,-10.72011 -10.7201,-14.29347 -46.82229,0 c -3.70675,-6.40987 -10.63341,-10.72009 -18.57035,-10.72009 z m -3.57337,10.72009 c 3.94704,0 7.14674,3.1997 7.14674,7.14673 0,3.94704 -3.1997,7.14674 -7.14674,7.14674 -3.94704,0 -7.14674,-3.1997 -7.14674,-7.14674 0,-3.94703 3.1997,-7.14673 7.14674,-7.14673 z"
+         id="path3891"
+         sodipodi:nodetypes="cssccccccccccccsssc" />
+      <text
+         xml:space="preserve"
+         style="font-size:25.88040352px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         x="337.03232"
+         y="795.66718"
+         id="text3115"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="337.03232"
+           y="795.66718"
+           id="tspan3117"><tspan
+             x="337.03232"
+             y="795.66718"
+             id="tspan3119">відкритий</tspan></tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3121"
+         y="828.01764"
+         x="337.05127"
+         style="font-size:25.88040352px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         xml:space="preserve"><tspan
+           id="tspan3123"
+           y="828.01764"
+           x="337.05127"
+           sodipodi:role="line">ключ</tspan></text>
+    </g>
+  </g>
+</svg>
